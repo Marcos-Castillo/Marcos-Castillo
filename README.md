@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 <p align="center">
-<a href="www.linkedin.com/in/marcos-develop"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/marcos-develop/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Marcos-Castillo&style=flat-square&color=blue" alt=""></p>
