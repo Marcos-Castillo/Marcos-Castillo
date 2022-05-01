@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -6,21 +5,17 @@
 </div>
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello it's Marcos Castillo GitHub profile. </h1>
 
-
-
 Here are some ideas to get you started:
 
-
-Argentina and 🌱 I’m currently learning in Argentina Programa <a href="http://yoprogramo.org.ar/como-aprendo/">#YoProgramo</a> .  I'm also participating in the <a href="https://www.oracle.com/ar/education/oracle-next-education/">Oracle Next Education</a> program.
+Argentina and 🌱 I’m currently learning in Argentina Programa <a href="http://yoprogramo.org.ar/como-aprendo/">#YoProgramo</a> . I'm also participating in the <a href="https://www.oracle.com/ar/education/oracle-next-education/">Oracle Next Education</a> program.
 
 - 🌱 I’m currently learning **JavaScript, React,Angular, Node.js, Java and Spring**.
 
 - 💼 I'm working on my portfolio. Meanwhile you can see all my projects on [GitHub](https://github.com/Marcos-Castillo?tab=repositories).
 
-
 ---
 
-- 📫 How to reach me: 
+- 📫 How to reach me:
 
 <h3 align="center">Connect with me:</h3>
 <p></p>
@@ -34,9 +29,26 @@ Argentina and 🌱 I’m currently learning in Argentina Programa <a href="http:
 <img src="https://komarev.com/ghpvc/?username=Marcos-Castillo&style=flat-square&color=blue" alt=""></p>
 
 ---
+
 <h3 align="left">Languages and Tools:</h3>
 <p></p>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></p>
+<p align="left"> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/300px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a>
+</p>
 
 ---
 
