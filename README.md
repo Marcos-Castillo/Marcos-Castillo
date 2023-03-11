@@ -37,7 +37,7 @@ Argentina and 🌱 I’m currently learning in Argentina Programa <a href="http:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </a>  
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-<img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="spring" width="40" height="40"/> 
+<img src="https://spring.io/img/logos/spring-initializr.svg" alt="spring" width="40" height="40"/> 
 </a> 
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/> 
