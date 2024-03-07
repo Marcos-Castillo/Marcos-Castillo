@@ -61,6 +61,7 @@ Puedes encontrar ejemplos concretos de mi trabajo en mi [GitHub](https://github.
 
 | Nombre                                          | Título                                       | Expedición    | Vencimiento |
 |-------------------------------------------------|----------------------------------------------|---------------|-------------|
+| Codo a codo 4.0 - Ciudad de Buenos Aires        | Java Avanzado con SpringBoot                | dic. 2023  |             |
 | Codo a codo 4.0 - Ciudad de Buenos Aires        | Java Full Stack                             | jul. 2023  |             |
 | Universidad Tecnológica Nacional                | Desarrollador Web Inicial                   | abr. 2023  |             |
 | Universidad Tecnológica Nacional                | Java                                        | abr. 2023  |             |
