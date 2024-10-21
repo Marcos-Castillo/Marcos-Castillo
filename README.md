@@ -61,6 +61,9 @@ Puedes encontrar ejemplos concretos de mi trabajo en mi [GitHub](https://github.
 
 | Nombre                                          | Título                                       | Expedición    | Vencimiento |
 |-------------------------------------------------|----------------------------------------------|---------------|-------------|
+| Instituto Superior Santo Domingo       | Técnico Superior en Análisis de Sistemas de Computación|Cursando |             |
+| Codo a codo 4.0 - Ciudad de Buenos Aires        | Javascript Full Stack (Node.js)              | jul. 2024  |             |
+| Casa del Futuro - Universidad Tecnológica Nacional| React.js                                   | jul. 2024  |             |
 | Codo a codo 4.0 - Ciudad de Buenos Aires        | Java Avanzado con SpringBoot                | dic. 2023  |             |
 | Codo a codo 4.0 - Ciudad de Buenos Aires        | Java Full Stack                             | jul. 2023  |             |
 | Universidad Tecnológica Nacional                | Desarrollador Web Inicial                   | abr. 2023  |             |
@@ -99,6 +102,9 @@ No dudes en contactarme a través de mis perfiles en redes sociales:
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Marcos-Castillo&style=flat-square&color=blue" alt="">
+</p>
+<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Castillo&langs_count=8&&hide=css,html)](https://github.com/Marcos-Castillo)
 </p>
 
 
