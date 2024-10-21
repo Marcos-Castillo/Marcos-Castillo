@@ -63,7 +63,7 @@ Puedes encontrar ejemplos concretos de mi trabajo en mi [GitHub](https://github.
 |-------------------------------------------------|----------------------------------------------|---------------|-------------|
 | Instituto Superior Santo Domingo       | Técnico Superior en Análisis de Sistemas de Computación|Cursando |             |
 | Codo a codo 4.0 - Ciudad de Buenos Aires        | Javascript Full Stack (Node.js)              | jul. 2024  |             |
-| Casa del Futuro - Universidad Tecnológica Nacional| React.js                                   | jul. 2024  |             |
+| Universidad Tecnológica Nacional - FRM| React.js                                   | jul. 2024  |             |
 | Codo a codo 4.0 - Ciudad de Buenos Aires        | Java Avanzado con SpringBoot                | dic. 2023  |             |
 | Codo a codo 4.0 - Ciudad de Buenos Aires        | Java Full Stack                             | jul. 2023  |             |
 | Universidad Tecnológica Nacional                | Desarrollador Web Inicial                   | abr. 2023  |             |
@@ -85,7 +85,7 @@ Puedes encontrar ejemplos concretos de mi trabajo en mi [GitHub](https://github.
 | Alura Latam                                     | Formación Business Agility - ONE            | dic. 2021  |             |
 | Alura Latam                                     | La Empresa Ágil: Introduciendo el Business Agility en las organizaciones | dic. 2021  |             |
 | Argentina Programa                              | Full stack Java                             | oct. 2021  |    |
-| Universidad Tecnológica Nacional                | Técnico Superior en Programación             | mar. 2009     |             |
+| Universidad Tecnológica Nacional -(FRC)         | Técnico Superior en Programación             | mar. 2009     |             |
 | Instituto AES                                   | Reparación, mantenimiento y Actualización de PC | dic. 2006    |             |
 
 ## Cómo Contactarme
