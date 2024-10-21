@@ -107,7 +107,7 @@ No dudes en contactarme a través de mis perfiles en redes sociales:
 
 
   <a href="https://github.com/Marcos-Castillo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Castillo&langs_count=8&&hide=css,html,scss,batchfile" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Castillo&layout=compact&&hide=css,html,scss,Batchfile" />
 </a>
 </p>
 
