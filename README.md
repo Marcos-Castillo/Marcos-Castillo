@@ -104,7 +104,11 @@ No dudes en contactarme a través de mis perfiles en redes sociales:
 <img src="https://komarev.com/ghpvc/?username=Marcos-Castillo&style=flat-square&color=blue" alt="">
 </p>
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Castillo&langs_count=8&&hide=css,html)](https://github.com/Marcos-Castillo)
+
+
+  <a href="https://github.com/Marcos-Castillo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Castillo&langs_count=8&&hide=css,html" />
+</a>
 </p>
 
 
