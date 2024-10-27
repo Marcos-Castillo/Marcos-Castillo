@@ -62,6 +62,8 @@ Puedes encontrar ejemplos concretos de mi trabajo en mi [GitHub](https://github.
 | Nombre                                          | Título                                       | Expedición    | Vencimiento |
 |-------------------------------------------------|----------------------------------------------|---------------|-------------|
 | Instituto Superior Santo Domingo       | Técnico Superior en Análisis de Sistemas de Computación|Cursando |             |
+| Cisco Networking Academy        | Junior Cybersecurity Analyst Career Path             | oct. 2024  |             |
+| Cisco Networking Academy        | Linux Essentials             | oct. 2024  |             |
 | Codo a codo 4.0 - Ciudad de Buenos Aires        | Javascript Full Stack (Node.js)              | jul. 2024  |             |
 | Universidad Tecnológica Nacional - FRM| React.js                                   | jul. 2024  |             |
 | Codo a codo 4.0 - Ciudad de Buenos Aires        | Java Avanzado con SpringBoot                | dic. 2023  |             |
