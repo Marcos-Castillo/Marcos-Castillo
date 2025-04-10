@@ -59,37 +59,32 @@ Puedes encontrar ejemplos concretos de mi trabajo en mi [GitHub](https://github.
 
 ## Educación Licencias y certificaciones
 
-| Nombre                                          | Título                                       | Expedición    | Vencimiento |
-|-------------------------------------------------|----------------------------------------------|---------------|-------------|
-| Instituto Superior Santo Domingo       | Técnico Superior en Análisis de Sistemas de Computación|Cursando |             |
-| The Linux Foundation        | LFS101:Introdution to Linux              | nov. 2024  |             |
-| Cisco Networking Academy        | Junior Cybersecurity Analyst Career Path             | oct. 2024  |             |
-| Cisco Networking Academy        | Linux Essentials             | oct. 2024  |             |
-| Codo a codo 4.0 - Ciudad de Buenos Aires        | Javascript Full Stack (Node.js)              | jul. 2024  |             |
-| Universidad Tecnológica Nacional - FRM| React.js                                   | jul. 2024  |             |
-| Codo a codo 4.0 - Ciudad de Buenos Aires        | Java Avanzado con SpringBoot                | dic. 2023  |             |
-| Codo a codo 4.0 - Ciudad de Buenos Aires        | Java Full Stack                             | jul. 2023  |             |
-| Universidad Tecnológica Nacional                | Desarrollador Web Inicial                   | abr. 2023  |             |
-| Universidad Tecnológica Nacional                | Java                                        | abr. 2023  |             |
-| Universidad Tecnológica Nacional                | Testing Manual y Ágil                      | abr. 2023  |             |
-| Centro Universitario de Idiomas (CUI)           | Inglés técnico para desarrolladores de software | feb. 2023  |             |
-| Alura Latam                                     | Formación SQL con MySQL Server de Oracle - ONE | nov. 2022  |             |
-| EF Standard English Test (EF SET)              | English level - B1 Intermediate (47/100)   | oct. 2022  |             |
-| Argentina Programa                              | Full stack                                   |  ago. 2022 |             |
-| Alura Latam                                     | Formación Oracle Cloud Infrastructure - ONE | sept. 2022 |             |
-| Oracle                                          | Oracle Cloud Infrastructure 2022 Certified Foundations Associate | sept. 2022 |     sept. 2024        |
-| Alura Latam                                     | Formación Java Orientado a Objetos - ONE   | jun. 2022  |             |
-| Alura                                           | Desarrollador Full stack                     | jun. 2022 |      
-| Udemy                                           | Universidad Angular                         | jun. 2022  |             |
-| Alura Latam                                     | Formación Front-end - ONE                   | abr. 2022  |             |
-| Alura Latam                                     | Formación Principiante en Programación - ONE | ene. 2022  |             |
-| Alura Latam                                     | Git y GitHub: Controle y comparta su código | ene. 2022  |             |
-| Mumuki                                          | Argentina Programa Octubre - Diciembre 2021 | dic. 2021  |             |
-| Alura Latam                                     | Formación Business Agility - ONE            | dic. 2021  |             |
-| Alura Latam                                     | La Empresa Ágil: Introduciendo el Business Agility en las organizaciones | dic. 2021  |             |
-| Argentina Programa                              | Full stack Java                             | oct. 2021  |    |
-| Universidad Tecnológica Nacional -(FRC)         | Técnico Superior en Programación             | mar. 2009     |             |
-| Instituto AES                                   | Reparación, mantenimiento y Actualización de PC | dic. 2006    |             |
+| Título                                       |Institucion|Año|
+|-------------------------------------------------|----------------------------------------------|---------------|
+| Técnico Superior en Análisis de Sistemas de Computación| Instituto Superior Santo Domingo       |Cursando |
+| LFD121: Developing Secure Software              | The Linux Foundation        | feb. 2025  |
+| LFS101:Introdution to Linux              | The Linux Foundation        | nov. 2024  |
+| Junior Cybersecurity Analyst Career Path             | Cisco Networking Academy        | oct. 2024  |
+| Linux Essentials             | Cisco Networking Academy        | oct. 2024  |
+| Javascript Full Stack (Node.js)              | Codo a codo 4.0 - Ciudad de Buenos Aires        | jul. 2024  |
+| React.js                                   | Universidad Tecnológica Nacional - FRM| jul. 2024  |
+| Java Avanzado con SpringBoot                | Codo a codo 4.0 - Ciudad de Buenos Aires        | dic. 2023  |
+| Java                                        | Universidad Tecnológica Nacional                | abr. 2023  |
+| Testing Manual y Ágil                      | Universidad Tecnológica Nacional                | abr. 2023  |
+| Inglés técnico para desarrolladores de software | Centro Universitario de Idiomas (CUI)           | feb. 2023  |
+| Formación SQL con MySQL Server de Oracle - ONE | Alura Latam                                     | nov. 2022  |
+| English level - B1 Intermediate (47/100)   | EF Standard English Test (EF SET)              | oct. 2022  |
+| Full stack                                   | Argentina Programa                              |  ago. 2022 |
+| Oracle Cloud Infrastructure 2022 Certified Foundations Associate | Oracle                                          | sept. 2022 |
+| Formación Java Orientado a Objetos - ONE   | Alura Latam                                     | jun. 2022  |
+| Desarrollador Full stack                     | Alura                                           | jun. 2022 |
+| Universidad Angular                         | Udemy                                           | jun. 2022  |
+| Formación Front-end - ONE                   | Alura Latam                                     | abr. 2022  |
+| Formación Principiante en Programación - ONE | Alura Latam                                     | ene. 2022  |
+| Full stack Java                             | Argentina Programa                              | oct. 2021  |
+| Técnico Superior en Programación             | Universidad Tecnológica Nacional -(FRC)         | mar. 2009     |
+| Reparación, mantenimiento y Actualización de PC | Instituto AES                                   | dic. 2006    |
+
 
 ## Cómo Contactarme
 
