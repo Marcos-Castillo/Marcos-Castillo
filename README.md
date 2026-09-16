@@ -17,8 +17,6 @@ Puedes encontrar ejemplos concretos de mi trabajo en mi [GitHub](https://github.
 
 - [**Sistema de impresión de precios y etiquetas**](https://github.com/Marcos-Castillo/etiquetas_v2): App Android en Java con impresión térmica Bluetooth (ESC/POS), API en C# y frontend web. Optimizó la eficiencia de seguimiento y control de precios en tiempo real en Grupo Dinosaurio.
 
-- [**Plataforma de gestión de recursos humanos y vacantes**](https://github.com/Marcos-Castillo/rrhh): Sistema de gestión de vacantes desarrollado con Angular y Microsoft SQL Server, impulsando un aumento en las postulaciones de la empresa.
-
 - [**Market**](https://github.com/Marcos-Castillo/Market): E-commerce desarrollado con React y Vite.
 
 - [**Control de Aforo Inteligente**](https://github.com/Marcos-Castillo/pruba-reconcimiento-facial-): Prototipo de control de aforo con detección facial integrada a Firebase.
